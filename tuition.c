@@ -1,4 +1,4 @@
-/* Homework 1 Engineering student tuition calculator */
+/* Engineering student tuition calculator */
 #include <stdio.h>
 #include <math.h>
 
